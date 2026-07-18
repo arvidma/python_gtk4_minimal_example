@@ -1,1 +1,1 @@
-git+https://gitlab.gnome.org/GNOME/pygobject.git  # As of 2021-03-04 the PyGObject on PyPI is not fully GTK4 compatible.
+PyGObject>=3.42  # The PyPI release has been fully GTK4 compatible since 3.40 (2021).
